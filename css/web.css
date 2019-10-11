@@ -1,0 +1,41 @@
+.bgbaneer{
+    height: 360px;
+}
+
+.web-arr{
+    width: 840px;
+    height: 1050px;
+    background: #ffffff;
+    border-radius: 10px;
+    margin: 50px auto;
+    position: relative;
+   
+}
+.web-arr h3{
+    padding: 18px 0;
+    border-bottom: 1px #666666 solid;padding-left: 20px;
+}
+.web-arr .web-daima{
+    width: 730px;height: 720px;
+    background: #000000;
+    margin: 0 auto;
+    margin-top: 30px;
+    border-radius: 5px;
+  
+    
+}
+.web-arr span{
+    position: absolute;
+    right: 20px;
+    bottom: 20px;
+}
+.web-sidebar{
+    width: 300px;
+    height: 600px;
+    background: #41B7D5;
+    float: left;
+    border-radius: 10px;
+    position: absolute;
+    right: 10%;
+    top: 39%;
+}
